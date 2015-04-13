@@ -16,8 +16,8 @@
     "require" : {
     },
     "autoload" : {
-        "psr-0" : {
-            "Mbt\\UtilsBundle" : "src/"
+        "psr-4" : {
+            "Mbt\\UtilsBundle\\" : "src/"
         }
     },
     "target-dir" : "Mbt/UtilsBundle",
