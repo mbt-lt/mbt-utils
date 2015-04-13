@@ -1,0 +1,31 @@
+{
+    "name" : "mbt/utils-bundle",
+    "description" : "MBT Utils bundle",
+    "type" : "library",
+    "authors" : [{
+        "name" : "MBT",
+        "homepage" : "http://www.mbt.lt"
+    }],
+    "keywords" : [
+        "mbt",
+        "utils"
+    ],
+    "license" : [
+        "MBT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Mbt\\UtilsBundle" : "src/"
+        }
+    },
+    "target-dir" : "Mbt/UtilsBundle",
+    "repositories" : [{
+    }],
+    "extra" : {
+        "branch-alias" : {
+            "dev-master" : "1.0.x-dev"
+        }
+    }
+}
