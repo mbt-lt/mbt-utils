@@ -20,7 +20,6 @@
             "Mbt\\UtilsBundle\\" : "src/"
         }
     },
-    "target-dir" : "Mbt/UtilsBundle",
     "repositories" : [{
     }],
     "extra" : {
